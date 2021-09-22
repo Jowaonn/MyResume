@@ -1,0 +1,4 @@
+.bg-success1 {
+    --bs-bg-opacity: 1;
+    background-color: blue;
+  }
